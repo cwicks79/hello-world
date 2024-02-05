@@ -1,0 +1,10 @@
+# Set the default behavior, in case people don't have core.autocrlf set
+* text=auto
+
+# not sure what these attributes are for
+*.txt          text
+*.md           text
+*.cpp          text
+*.h            text
+.gitattributes text
+.gitignore     text
